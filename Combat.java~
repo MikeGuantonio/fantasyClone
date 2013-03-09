@@ -1,0 +1,5 @@
+public interface Combat
+{
+    public void Fight();
+    public abstract int FightPower();
+}
